@@ -1,10 +1,10 @@
 {
   "address": [
     {
-      "post": "https://app.drvap.xyz//api_post.php",
-      "get": "https://app.drvap.xyz/api_get.php",
-      "server": "https://app.drvap.xyz/server_none.png",
-      "user": "https://app.drvap.xyz/user_ban.png"
+      "post": "https://app.d4rk4pp.sbs//api_post.php",
+      "get": "https://app.d4rk4pp.sbs/api_get.php",
+      "server": "https://app.d4rk4pp.sbs/server_none.png",
+      "user": "https://app.d4rk4pp.sbs/user_ban.png"
     }
   ]
 }
